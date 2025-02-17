@@ -19,15 +19,6 @@ body {
   background-color: #f6f6f7;
 }
 
-/* button{
-    color: #192e44;
-    font-size: 1rem;
-    font-weight: 600;
-    background-color: #82c341;
-    padding: 1.5rem 2.4rem;
-    transition: all 0.3s;
-  } */
-
 .navbar li a {
   color: rgb(29, 28, 28) !important;
 }
@@ -122,3 +113,8 @@ margin-top: 10%;
 }
 
 
+.modal-content {
+  background: rgba(24, 83, 60, 0.9);
+}
+.modal-content div {
+color: #bdddda;}

@@ -10,10 +10,10 @@ p {
   margin-top: 0;
   margin-bottom: 1rem;
 }
-
+/* 
 img {
   vertical-align: middle;
-}
+} */
 
 body {
   background-color: #f6f6f7;
@@ -81,8 +81,8 @@ span a {
 }
 
 .carousel-item img{
-  width:  30rem;
-  height: 30rem;
+  width:  45rem;
+  height: 35rem;
   object-fit: fill;
 }
 
@@ -91,13 +91,12 @@ span a {
 }
 
 .c-pgh{
-  color: rgb(247, 246, 242)
-
+  color: rgb(60, 82, 120);
+margin-top: 10%;
 }
 
 .c-pgh p{
   color: rgb(128, 134, 134)
-
 }
 
 .c-pgh h5{
